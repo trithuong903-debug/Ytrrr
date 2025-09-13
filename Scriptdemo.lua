@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "TBoy Roblox",
-         Animation = "Youtube: TBoy Roblox"
+         Title = "Thuong hub",
+         Animation = "vien nam"
          },
         Key = {
         KeySystem = false,
